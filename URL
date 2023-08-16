@@ -11,4 +11,7 @@ Docker Images
 1.suganyamadhan1996/prod
 2.suganyamadhan1996/dev
 
+Prometeus and grafana
+http://65.0.135.60:9090/
+http://65.0.135.60:3000/
 
